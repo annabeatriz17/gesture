@@ -7,7 +7,7 @@ export default function Anna() {
 
     return (
         <View style={styles.container}>
-            <TouchableOpacity onPress={() => navigation.navigate("")}>
+            <TouchableOpacity onPress={() => navigation.navigate("Beatriz")}>
                 <Text style={styles.text}>Bem vindo a Home</Text>
             </TouchableOpacity>
         </View>
