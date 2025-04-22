@@ -19,9 +19,10 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
+        backgroundColor: '#ef7c8e',
     },
     text: {
         fontSize: 24,
-        fontWeight: 'bold',
+        textDecorationLine: 'underline',
     },
 });
