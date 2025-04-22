@@ -1,4 +1,4 @@
-export const info = [
+export const paisagens = [
     {
         id: 1,
         title: "Por do Sol",
@@ -15,5 +15,5 @@ export const info = [
         image: "https://www.agenciasp.sp.gov.br/wp-content/uploads/2025/02/Praia-do-Felix-1024x768.jpg",
 
         
-      },
+    },
 ]
