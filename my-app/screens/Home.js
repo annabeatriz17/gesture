@@ -8,7 +8,7 @@ export default function Anna() {
     return (
         <View style={styles.container}>
             <TouchableOpacity onPress={() => navigation.navigate("")}>
-                <Text style={styles.text}>Minha página Home</Text>
+                <Text style={styles.text}>Bem vindo a Home</Text>
             </TouchableOpacity>
         </View>
     );
@@ -19,7 +19,6 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: 'aqua',
     },
     text: {
         fontSize: 24,
