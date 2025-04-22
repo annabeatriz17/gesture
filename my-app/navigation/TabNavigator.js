@@ -9,7 +9,7 @@ const Tab = createBottomTabNavigator();
 export default function TabNavigator() {
     return (
         <Tab.Navigator
-            initialRouteName="Django"
+            initialRouteName="Home"
             screenOptions={{
                 headerShown: true,
                 headerTitle: "Web da Anna",

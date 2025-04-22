@@ -7,7 +7,7 @@ export default function Valentim() {
         
     return (
         <View style={styles.container}>
-            <TouchableOpacity onPress={() => navigation.navigate("Carboni")}>
+            <TouchableOpacity onPress={() => navigation.navigate("Ribeiro")}>
                 <Text style={styles.text}>Rick Dalton</Text>
             </TouchableOpacity>
         </View>
